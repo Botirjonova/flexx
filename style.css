@@ -1,0 +1,40 @@
+.head{
+    width: 100%;
+ display: flex;
+    justify-content: space-around;
+}
+
+.box div{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.box{
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+}
+
+
+
+.run{
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    font-size: 25px;
+    
+}
+
+.red{
+    width: 100%;
+    display: flex;
+       justify-content: space-around; 
+       margin: 50px;
+}
